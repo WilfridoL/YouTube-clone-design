@@ -1,8 +1,8 @@
-###YouTube Clon design [BETA]
+#YouTube Clon design [BETA]
 This is a test project for my portfolio in which i have been practicing my knowledge of programming languages. 
 
 ###### HTML
-###### CSS
+###### CSS    
 ###### JAVASCRIPT
 
 This project includes videos that are in the YouTube in which I took as reference to make this project, the videos are placed automatically through the JSON file and can be placed more by modifying the elements of the object "videoblck2".
