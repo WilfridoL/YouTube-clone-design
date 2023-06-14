@@ -1,0 +1,182 @@
+{
+	"videoBlck1": [
+		{
+			"video-img": "./img/img-video/the-flash-trailer.webp",
+			"video-duration": "2:52",
+			"canal-logo": "./img/img-canal-logo/dc-logo.jpg",
+			"tittle-video": "The Flash - Official Trailer 2",
+			"canal-name": "DC",
+			"views": "31M",
+			"options": "./icons/more_vert_icon.svg"
+		},
+		{
+			"video-img": "./img/img-video/hotel-room.webp",
+			"video-duration": "15:41",
+			"canal-logo": "./img/img-canal-logo/mrbeast-logo.jpg",
+			"tittle-video": "$1 vs $1,000,000 Hotel Room!",
+			"canal-name": "MrBeast",
+			"views": "231M",
+			"options": "./icons/more_vert_icon.svg"
+		},
+		{
+			"video-img": "./img/img-video/dragon-ball-super-super-hero.webp",
+			"video-duration": "16:47",
+			"canal-logo": "./img/img-canal-logo/en-minutos-logo.jpg",
+			"tittle-video": "Dragon Ball Super: Super Hero | RESUMEN EN 16 MINUTOS",
+			"canal-name": "En Minutos",
+			"views": "3.3M",
+			"options": "./icons/more_vert_icon.svg"
+		},
+		{
+			"video-img": "./img/img-video/can't-hold-us.webp",
+			"video-duration": "7:03",
+			"canal-logo": "./img/img-canal-logo/macklemore-logo.jpg",
+			"tittle-video": "MACKLEMORE & RYAN LEWIS - CAN'T HOLD US FEAT. RAY DALTON...",
+			"canal-name": "Mancklemore",
+			"views": "1B",
+			"options": "./icons/more_vert_icon.svg"
+		},
+		{
+			"video-img": "./img/img-video/barbie-trailer.webp",
+			"video-duration": "2:42",
+			"canal-logo": "./img/img-canal-logo/warner-bros-logo.jpg",
+			"tittle-video": "Barbie | Main Trailer",
+			"canal-name": "Warner Bros. Pictures",
+			"views": "31M",
+			"options": "./icons/more_vert_icon.svg"
+		}
+	],
+	"shorts": [
+		{
+			"shorts-img": "./img/img-short/video_short_1.webp",
+			"tittle-shorts": "Ronaldo Revenge 😱😱 #cr7...",
+			"views": "77M",
+			"options": "./icons/more_vert_icon.svg"
+		},
+		{
+			"shorts-img": "./img/img-short/video_short_2.webp",
+			"tittle-shorts": "3 Of The WEIRDEST...",
+			"views": "45M",
+			"options": "./icons/more_vert_icon.svg"
+		},
+		{
+			"shorts-img": "./img/img-short/video_short_3.webp",
+			"tittle-shorts": "Activating my THICK Pink Posca...",
+			"views": "77M",
+			"options": "./icons/more_vert_icon.svg"
+		},
+		{
+			"shorts-img": "./img/img-short/video_short_4.webp",
+			"tittle-shorts": "Most Chocolatey Cold Coffee of...",
+			"views": "39M",
+			"options": "./icons/more_vert_icon.svg"
+		},
+		{
+			"shorts-img": "./img/img-short/video_short_5.webp",
+			"tittle-shorts": "ultimate chicken sandwich #shorts",
+			"views": "44M",
+			"options": "./icons/more_vert_icon.svg"
+		}
+	],
+	"videoBlck2": [
+		{
+			"video-img": "./img/img-video/mary-on-a-cross.webp",
+			"video-duration": "4:05",
+			"canal-logo": "./img/img-canal-logo/ghost-logo.jpg",
+			"tittle-video": "Ghost - Mary On A Cross (Official Audio)",
+			"canal-name": "Ghost",
+			"views": "62M",
+			"options": "./icons/more_vert_icon.svg"
+		},
+		{
+			"video-img": "./img/img-video/is-this-the-best-survival-bow.webp",
+			"video-duration": "26:45",
+			"canal-logo": "./img/img-canal-logo/clay-hayes-logo.jpg",
+			"tittle-video": "Is this the BEST Survival Bow? - Penobscot Primitive Bow",
+			"canal-name": "Clay Hayes",
+			"views": "1.3M",
+			"options": "./icons/more_vert_icon.svg"
+		},
+		{
+			"video-img": "./img/img-video/full-restoration.webp",
+			"video-duration": "39:08",
+			"canal-logo": "./img/img-canal-logo/restoration-vr-logo.jpg",
+			"tittle-video": "Full RestorationＣＯＭＰＵＴＥＲ picked up from the　Ｌａｎｄｆｉ...",
+			"canal-name": "Restoration VR",
+			"views": "1.4M",
+			"options": "./icons/more_vert_icon.svg"
+		},
+		{
+			"video-img": "./img/img-video/animals.webp",
+			"video-duration": "38:44",
+			"canal-logo": "./img/img-canal-logo/mab-lab-logo.jpg",
+			"tittle-video": "Animals That Asked People for Help & Kindness | Best Moments Of 2022 !",
+			"canal-name": "MAB LAB",
+			"views": "26M",
+			"options": "./icons/more_vert_icon.svg"
+		},
+		{
+			"video-img": "./img/img-video/dragon-ball-super-super-hero-amv.webp",
+			"video-duration": "4:45",
+			"canal-logo": "./img/img-canal-logo/harisu-logo.jpg",
+			"tittle-video": "Dragon Ball Super: Super Hero【AMV】- The Phoenix",
+			"canal-name": "Harisu X",
+			"views": "165K",
+			"options": "./icons/more_vert_icon.svg"
+		},
+		{
+			"video-img": "./img/img-video/classic-rock.webp",
+			"video-duration": "1:20:32",
+			"canal-logo": "./img/img-canal-logo/rock-music-box-logo.jpg",
+			"tittle-video": "Bon Jovi, Queen, Aerosmith, Guns N Roses, RHCP, U2 - Greatest Hits Classic Rock 70s 80s 90s",
+			"canal-name": "Rock Music Box",
+			"views": "3.2M",
+			"options": "./icons/more_vert_icon.svg"
+		},
+		{
+			"video-img": "./img/img-video/chavo-del-8.webp",
+			"video-duration": "1:25:56",
+			"canal-logo": "./img/img-canal-logo/vlogs-logo.jpg",
+			"tittle-video": "El chavo del 8 capitulos completos - Guerra de cubetazos",
+			"canal-name": "Hoàng Hà Vlogs",
+			"views": "140K",
+			"options": "./icons/more_vert_icon.svg"
+		},
+		{
+			"video-img": "./img/img-video/gun-restoration.webp",
+			"video-duration": "18:29",
+			"canal-logo": "./img/img-canal-logo/the-kinzler-logo.jpg",
+			"tittle-video": "Gun Restoration, Colt M1911 U.S. ARMY 1914, (with test fire).",
+			"canal-name": "The Kinzler Bros",
+			"views": "5.3M",
+			"options": "./icons/more_vert_icon.svg"
+		},
+		{
+			"video-img": "./img/img-video/sandwichs.webp",
+			"video-duration": "8:03",
+			"canal-logo": "./img/img-canal-logo/foody-logo.jpg",
+			"tittle-video": "Street Toast Master who Only Sells for 3 Hours in the Morning?...",
+			"canal-name": "FoodyTrip 푸디트립",
+			"views": "16M",
+			"options": "./icons/more_vert_icon.svg"
+		},
+		{
+			"video-img": "./img/img-video/starfield-trailer.webp",
+			"video-duration": "2:52",
+			"canal-logo": "./img/img-canal-logo/gamespot-logo.jpg",
+			"tittle-video": "Starfield Gameplay Trailer | Xbox Games Showcase 2023",
+			"canal-name": "GameSpot",
+			"views": "33K",
+			"options": "./icons/more_vert_icon.svg"
+		},
+		{
+			"video-img": "./img/img-video/watch-the-world-burn.webp",
+			"video-duration": "3:24",
+			"canal-logo": "./img/img-canal-logo/epitaph-logo.jpg",
+			"tittle-video": "Falling In Reverse - 'Watch The World Burn' ",
+			"canal-name": "Epitaph Records",
+			"views": "35M",
+			"options": "./icons/more_vert_icon.svg"
+		}
+	]
+}
