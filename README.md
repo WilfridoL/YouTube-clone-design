@@ -1,4 +1,4 @@
-#YouTube Clon design [BETA] <br>
+<h1>YouTube Clon design [BETA]</h1> <br>
 This is a test project for my portfolio in which i have been practicing my knowledge of programming languages. 
 
 ###### HTML
